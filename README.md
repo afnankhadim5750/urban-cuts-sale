@@ -1,6 +1,6 @@
 # Urban Cuts
 
-Demo website concept for **Urban Cuts** — Sale, UK.
+Demo website concept for **Urban Cuts** — Sale.
 
 Live preview: https://urban-cuts-sale-mockup.netlify.app
 
